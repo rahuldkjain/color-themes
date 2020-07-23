@@ -1,5 +1,5 @@
 # color-themes
-# hi
+
 This is a project to walk through the process of creating a Pull Request by contributing to a small open source site! 
 
 ## Learn about git - If you're new to git / GitHub, start here 👇
